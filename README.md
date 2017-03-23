@@ -14,4 +14,6 @@ For the zip files please extract these for them to be able to work such Microsof
 
 For the CO567 OOSD zip folder this was a Java starting point for me extract this folder and download Blue J for the platform you are using on your system here in order to access and see the work produced in addtion see the PDF report -- [This was a group project in a team of three people]  -- https://www.bluej.org/
 
+Should you want to download Microsoft Visual Studio 2017 -- download the community edtion free forever or a tiral of professional for 30 days here https://www.visualstudio.com/downloads/
+
 Addtionally find in this Repsospiorty some smaples of my extra currciur work such as my Microsoft Ambassador post 
